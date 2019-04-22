@@ -1,0 +1,12 @@
+E:\Project2019\字符串加密\StringEncryptTest\bin\Debug\StringEncryptTest.exe
+E:\Project2019\字符串加密\StringEncryptTest\bin\Debug\StringEncryptTest.pdb
+E:\Project2019\字符串加密\StringEncryptTest\bin\Debug\StringEncrypt.dll
+E:\Project2019\字符串加密\StringEncryptTest\bin\Debug\StringEncrypt.pdb
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.csprojAssemblyReference.cache
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.Form1.resources
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.Properties.Resources.resources
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.csproj.GenerateResource.cache
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.csproj.CoreCompileInputs.cache
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.csproj.CopyComplete
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.exe
+E:\Project2019\字符串加密\StringEncryptTest\obj\Debug\StringEncryptTest.pdb
